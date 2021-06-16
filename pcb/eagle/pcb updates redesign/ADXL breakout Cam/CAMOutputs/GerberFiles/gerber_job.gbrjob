@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-02T20:51:14Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ADXL Breakout Board V1"
+        },
+        "Owner": "Daniel Smolentsev <DSmolentsev@omsi.edu>",
+        "Size": {
+            "X": 48.26,
+            "Y": 36.83
+        }
+    }
+}

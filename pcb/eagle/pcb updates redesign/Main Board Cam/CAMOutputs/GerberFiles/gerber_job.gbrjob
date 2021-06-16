@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-02T20:14:06Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "OMSI_TABLE_R12_v4"
+        },
+        "Owner": "Daniel Smolentsev <DSmolentsev@omsi.edu>",
+        "Size": {
+            "X": 243.82,
+            "Y": 140.64
+        }
+    }
+}

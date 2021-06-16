@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-23T21:29:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Ring_opto_interface_v1"
+        },
+        "Owner": "Daniel Smolentsev <DSmolentsev@omsi.edu>",
+        "Size": {
+            "X": 74.93,
+            "Y": 76.2
+        }
+    }
+}
